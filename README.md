@@ -1,1 +1,1 @@
-![Juksinbo's github stats](https://github-readme-stats.vercel.app/api?username=marionxue&theme=radical) 
+![Juksinbo's github stats](https://github-readme-stats.vercel.app/api?username=Juskinbo&theme=radical) 
