@@ -8,6 +8,9 @@ Hello! 👋
 This is <a href="juskinbo.cn">Juskinbo</a>
 <br>
 SE at <a href="hznu.edu.cn">HZNU</a>
-
-![](https://raw.githubusercontent.com/Juskinbo/Juskinbo/main/assets/github-contribution-grid-snake.svg)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Juskinbo&show_icons=true&theme=transparent"></img>
+<br>
+<img src="https://raw.githubusercontent.com/Juskinbo/Juskinbo/main/assets/github-contribution-grid-snake.svg"></img>
 </p>
