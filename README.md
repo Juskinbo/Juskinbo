@@ -7,7 +7,7 @@ Hello! 👋
 <br>
 This is <a href="https://juskinbo.cn">Juskinbo</a>
 <br>
-SE at <a href="https://www.hznu.edu.cn">HZNU</a>
+  <strong>SE</strong> at <a href="https://www.hznu.edu.cn">HZNU</a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=Juskinbo&show_icons=true&theme=transparent"></img>
