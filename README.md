@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://juskinbo.cn/usr/photos/avatar.png" width=140></img>
+<img src="https://juskinbo.cn/usr/photos/avatar.png" width=150></img>
 </p>
 <h1 align="center"><a href="https://juskinbo.cn">Juskinbo</a></h1>
 <p align="center">
