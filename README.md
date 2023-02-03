@@ -5,7 +5,11 @@
 <p align="center">
 Hello! 👋 
 <br>
+My <img src="https://profile-counter.glitch.me/Juskinbo/count.svg"></img> visitor
+<br>  
 This is <a href="https://juskinbo.cn">Juskinbo</a>
+<br>
+Student 🧑‍💻
 <br>
   <strong>SE</strong> at <a href="https://www.hznu.edu.cn">HZNU</a>
 <br>
