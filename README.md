@@ -9,7 +9,7 @@ This is <a href="https://juskinbo.cn">Juskinbo</a>
 <br>
   <strong>SE</strong> at <a href="https://www.hznu.edu.cn">HZNU</a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskinbo&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juskinbo&layout=compact&theme=transparent"></img>
 <img src="https://github-readme-stats.vercel.app/api?username=Juskinbo&show_icons=true&theme=transparent"></img>
 <br>
 <img src="https://raw.githubusercontent.com/Juskinbo/Juskinbo/main/assets/github-contribution-grid-snake.svg"></img>
