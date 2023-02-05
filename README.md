@@ -1,11 +1,9 @@
 <p align="center">
 <img src="https://juskinbo.cn/usr/photos/greetings.gif" align="center" style="width: 90%" />
 </p>
-<h1 align="center"><a href="https://juskinbo.cn">Juskinbo</a></h1>
+<h2 align="center">Hello! 👋 </h2>
+<br>
 <p align="center">
-Hello! 👋 
-<br>
-<br>
 My <img src="https://profile-counter.glitch.me/Juskinbo/count.svg"></img> visitor
 <br>  
 <br>
