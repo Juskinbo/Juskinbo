@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://juskinbo.cn/usr/photos/greetings.gif" align="center" style="width: 90%" />
+<img src="https://blog.juskinbo.cn/usr/photos/greetings.gif" align="center" style="width: 90%" />
 </p>
 <h2 align="center">Hello! 👋 </h2>
 <br>
